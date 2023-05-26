@@ -695,4 +695,28 @@
   #slaid3:checked~.adaptivny-slayder-lasekun .abusteku-deagulus {
 	transform: translateX(-200%);
   }
+table{
+	text-align: center;
+	color: rgb(46, 46, 46);
+}
+td{
+	font-family: 'Nunito', sans-serif;
+	font-size: large;
+	
+}
+tr{
+	font-family: 'Nunito', sans-serif;
+	font-size: large;
 
+}
+b{
+	font-family: 'Nunito', sans-serif;
+	font-size: large;
+
+}
+br{
+	font-family: 'Nunito', sans-serif;
+	font-size: large;
+	
+
+}
